@@ -1,0 +1,1 @@
+INSERT INTO jugadores (nombre , alias , pais , goles , fe_Nacimiento  ) VALUES ('Ivan Zamorano' , 'Bam Bam' , 'Chile' , 991 , '1979-01-01' );
